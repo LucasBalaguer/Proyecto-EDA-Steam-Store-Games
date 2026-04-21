@@ -120,7 +120,7 @@ pip install pandas matplotlib seaborn jupyter
 ## 👤 Autor
 
 **Lucas Balaguer**  
-Data Analyst · Bootcamp Data Science & IA — The Bridge (2025-2026)
+Data Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lucas--cavalcante--balaguer-0077B5?logo=linkedin)](https://www.linkedin.com/in/lucas-cavalcante-balaguer)
 [![GitHub](https://img.shields.io/badge/GitHub-LucasBalaguer-181717?logo=github)](https://github.com/LucasBalaguer)
